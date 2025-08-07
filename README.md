@@ -21,9 +21,6 @@ A simple and secure password generator built with HTML, CSS, and JavaScript. Thi
 ---
 
 
-
----
-
 ## 🚀 Technologies Used
 
 - HTML5
@@ -32,5 +29,4 @@ A simple and secure password generator built with HTML, CSS, and JavaScript. Thi
 
 ---
 
-## 📁 Folder Structure
 
